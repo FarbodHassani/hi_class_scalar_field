@@ -14,3 +14,5 @@ ini_files
 *.pyc
 python/build/
 RealSpaceInterface/cache/
+doc/.DS_Store
+.DS_Store
